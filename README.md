@@ -1,6 +1,6 @@
 # Image Classifier for Flowers using PyTorch
 
-This project is part of the * Udacity Data Science Nanodegree * <br>
+This project is part of the **Udacity Data Science Nanodegree** <br>
 In this project, I trained an image classifier to recognize different species of flowers. 
 
 ## Data:
